@@ -1,0 +1,369 @@
+{
+  "autoCategoryMappings": [
+    {
+      "keywords": ["kırmızı et"],
+      "category": "Kırmızı Et",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["beyaz et"],
+      "category": "Beyaz Et",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["deniz ürünleri"],
+      "category": "Deniz Ürünleri",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["şarküteri"],
+      "category": "Şarküteri",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["sakatat"],
+      "category": "Sakatat",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["et", "tavuk", "balık"],
+      "category": "Et, Tavuk ve Balık",
+      "menuCategory": true
+    },
+    {
+      "keywords": ["meyve ve sebze"],
+      "category": "Meyve ve Sebze",
+      "menuCategory": true
+    },
+    {
+      "keywords": ["meyve"],
+      "category": "Meyve",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["sebze"],
+      "category": "Sebze",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["süt ürünleri", "kahvaltılık"],
+      "category": "Süt Ürünleri ve Kahvaltılık",
+      "menuCategory": true
+    },
+    {
+      "keywords": ["süt"],
+      "category": "Süt",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["yumurta"],
+      "category": "Yumurta",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["peynir"],
+      "category": "Peynir",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["yoğurt"],
+      "category": "Yoğurt",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["zeytin"],
+      "category": "Zeytin",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["tereyağı", "margarin"],
+      "category": "Tereyağı ve Margarin",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["sürülebilir ürünler", "kahvaltılık sos"],
+      "category": "Sürülebilir Ürünler ve Kahvaltılık Soslar",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["helva", "tahin", "pekmez"],
+      "category": "Helva, Tahin ve Pekmez",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["bal", "reçel"],
+      "category": "Bal ve Reçel",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["gevrek", "bar", "granola"],
+      "category": "Kahvaltılık Gevrek, Bar ve Granola",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["kaymak"],
+      "category": "Kaymak ve Krema",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["ekmek", "unlu mamüller"],
+      "category": "Ekmek ve Unlu Mamüller",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["sıvı yağlar"],
+      "category": "Sıvı Yağlar",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["bakliyat"],
+      "category": "Bakliyat",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["şeker", "tatlandırıcı"],
+      "category": "Şeker ve Tatlandırıcılar",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["pasta malzemeleri"],
+      "category": "Pasta Malzemeleri",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["un", "irmik"],
+      "category": "Un ve İrmik",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["mantı", "makarna", "erişte"],
+      "category": "Mantı, Makarna ve Erişte",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["ketçap", "mayonez", "sos", "sirkeler"],
+      "category": "Ketçap, Mayonez, Sos ve Sirkeler",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["tuz", "baharat", "harç"],
+      "category": "Tuz, Baharat ve Harçlar",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["salça"],
+      "category": "Salça",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["turşu"],
+      "category": "Turşu",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["konserve"],
+      "category": "Konserve",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["hazır gıda"],
+      "category": "Hazır Gıda",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["bebek mamaları"],
+      "category": "Bebek Mamaları",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["temel gıda"],
+      "category": "Temel Gıda",
+      "menuCategory": true
+    },
+    {
+      "keywords": ["su"],
+      "category": "Su",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["meyve suyu"],
+      "category": "Meyve Suyu",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["gazlı içecek"],
+      "category": "Gazlı İçecekler",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["gazsız içecek"],
+      "category": "Gazsız İçecekler",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["ayran", "kefir"],
+      "category": "Ayran ve Kefir",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["maden suyu"],
+      "category": "Maden Suyu",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["çay", "bitki çayı"],
+      "category": "Çay ve Bitki Çayları",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["kahve"],
+      "category": "Kahve",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["içecek"],
+      "category": "İçecek",
+      "menuCategory": true
+    },
+    {
+      "keywords": ["çikolata"],
+      "category": "Çikolata",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["gofret"],
+      "category": "Gofret",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["bisküvi"],
+      "category": "Bisküvi ve Kraker",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["kek"],
+      "category": "Kek",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["cips"],
+      "category": "Cips",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["kuruyemiş"],
+      "category": "Kuruyemiş ve Kuru Meyve",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["sakız", "şekerleme"],
+      "category": "Sakız ve Şekerleme",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["tatlı"],
+      "category": "Tatlılar",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["dondurma"],
+      "category": "Dondurmalar",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["atıştırmalık"],
+      "category": "Atıştırmalık ve Tatlı",
+      "menuCategory": true
+    },
+    {
+      "keywords": ["bulaşık"],
+      "category": "Bulaşık Temizlik Ürünleri",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["çamaşır"],
+      "category": "Çamaşır Temizlik Ürünleri",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["genel temizlik"],
+      "category": "Genel Temizlik Ürünleri",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["mutfak sarf"],
+      "category": "Mutfak Sarf Malzemeleri",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["tuvalet kağıdı"],
+      "category": "Tuvalet Kağıdı",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["kağıt havlu"],
+      "category": "Kağıt Havlu",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["kağıt peçete"],
+      "category": "Kağıt Peçete ve Mendil",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["ıslak mendil"],
+      "category": "Islak Mendil",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["saç bakım"],
+      "category": "Saç Bakım",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["duş", "banyo", "sabun"],
+      "category": "Duş, Banyo ve Sabun",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["ağız bakım"],
+      "category": "Ağız Bakım",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["hijyenik ped"],
+      "category": "Hijyenik Ped",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["bebek bezi", "hasta bezi"],
+      "category": "Bebek ve Hasta Bezi",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["parfüm", "deodorant", "kolonya"],
+      "category": "Parfüm, Deodorant, Kolonya ve Kokular",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["cilt bakımı"],
+      "category": "Cilt Bakımı",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["makyaj"],
+      "category": "Makyaj",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["diğer temizlik"],
+      "category": "Diğer Temizlik ve Kişisel Bakım Ürünleri",
+      "menuCategory": false
+    },
+    {
+      "keywords": ["temizlik"],
+      "category": "Diğer Temizlik ve Kişisel Bakım Ürünleri",
+      "menuCategory": false
+    }
+  ]
+}
