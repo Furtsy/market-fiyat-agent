@@ -1,7 +1,7 @@
 {
   "name": "market-fiyat-agent",
   "version": "1.0.0",
-  "description": "marketfiyati.org.tr verilerini kullanarak ürün ve kategorilerde en uygun fiyatları bulan basit node.js ai agent",
+  "description": "marketfiyati.org.tr verilerini kullanarak ürün ve kategorilerde en uygun fiyatlı ürünleri bulan basit node.js ai agent",
   "main": "index.js",
   "type": "module",
   "scripts": {
